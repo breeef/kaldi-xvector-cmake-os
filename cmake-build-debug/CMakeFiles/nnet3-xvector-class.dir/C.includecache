@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/shi/lapack-3.7.1/CBLAS/src/cblas_dgemm.c
+cblas.h
+/home/shi/lapack-3.7.1/CBLAS/src/cblas.h
+cblas_f77.h
+/home/shi/lapack-3.7.1/CBLAS/src/cblas_f77.h
+
+/usr/include/atlas/cblas.h
+

@@ -1,0 +1,3 @@
+/home/shi/kaldi-master/make_nnet3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/shi/kaldi-master/make_nnet3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/shi/kaldi-master/make_nnet3/cmake-build-debug/CMakeFiles/nnet3-xvector-class.dir

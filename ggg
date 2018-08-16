@@ -1,0 +1,14 @@
+ kaldi-nnet3
+ kaldi-chain
+ kaldi-cudamatrix
+ kaldi-decoder
+ kaldi-lat
+ kaldi-fstext
+ kaldi-hmm
+ kaldi-transform
+ kaldi-gmm
+ kaldi-tree
+ kaldi-util
+ kaldi-matrix
+ kaldi-base
+ 
